@@ -27,6 +27,15 @@ git clone https://github.com/your/repository.git
 
 2. Install dependencies
 
+- pip install pipenv
+- pip install fastapi[full]
+- pipenv install fastapi[full]
+- pipenv shell
+- pipenv install uvicorn[standard]
+- pipenv install sqlalchemy
+
+
+
 ### Running the Application
 
 Run the FastAPI application: 
